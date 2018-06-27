@@ -1,7 +1,8 @@
 ---
-title: This is another test yo
+title: wazzup yo
 date: 2018-01-30T06:02:00.000Z
 published: true
+keywords: 'foobar, test'
 ---
 ## Nunc eu ullamcorper orci.
 
